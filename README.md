@@ -43,7 +43,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     - name: Run Autograding Tests
-      uses: education/autograding-command-grader@v1
+      uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: 'Test Name'
         setup-command: 'npm install'
