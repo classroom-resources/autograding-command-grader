@@ -1,5 +1,8 @@
 ## GitHub Classroom Command Grader
 
+> ⚠️ **WARNING** ⚠️
+> The GitHub Classroom application has been sunset so this plugin is deprecated. For more information, see the [GitHub Classroom sunset notice](https://gh.io/classroom-sunset).
+
 ### Overview
 **GitHub Classroom Command Grader** is a plugin for GitHub Classroom's Autograder. Seamlessly integrate your CS class with GitHub using this action to facilitate the grading process.
 
